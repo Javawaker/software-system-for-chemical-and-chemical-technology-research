@@ -1,0 +1,31 @@
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Complex.resources
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Plot.resources
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authorization.resources
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exprmnt.resources
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlotCapSpeed.resources
+C:\Users\Ksenia\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlotTemperature.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authorization.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Complex.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exprmnt.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Plot.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlotCapSpeed.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Universe\SPBGTI\Полосин 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

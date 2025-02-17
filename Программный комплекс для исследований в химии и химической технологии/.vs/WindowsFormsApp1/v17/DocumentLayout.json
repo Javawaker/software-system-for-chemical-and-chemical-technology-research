@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|c:\\universe\\spbgti\\\u043F\u043E\u043B\u043E\u0441\u0438\u043D 2\\windowsformsapp1\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\complex.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:complex.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\plotcapspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:plotcapspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\exprmnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:exprmnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\plotcapspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:plotcapspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE0C161-8060-4D69-A6F4-A58F721ED8A9}|WindowsFormsApp1.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Complex.cs",
+              "RelativeDocumentMoniker": "Complex.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Complex.cs",
+              "RelativeToolTip": "Complex.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAQwBEBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:47:36.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Plot.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Plot.cs",
+              "RelativeDocumentMoniker": "Plot.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Plot.cs [Design]",
+              "RelativeToolTip": "Plot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-30T04:52:59.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T04:52:50.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T04:53:03.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complex.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Complex.cs",
+              "RelativeDocumentMoniker": "Complex.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Complex.cs [Design]",
+              "RelativeToolTip": "Complex.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T04:58:23.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Authorization.cs",
+              "RelativeDocumentMoniker": "Authorization.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Authorization.cs",
+              "RelativeToolTip": "Authorization.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-30T04:57:57.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Authorization.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Authorization.cs",
+              "RelativeDocumentMoniker": "Authorization.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Authorization.cs [Design]",
+              "RelativeToolTip": "Authorization.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-30T04:49:02.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Complex.Designer.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Complex.Designer.cs",
+              "RelativeDocumentMoniker": "Complex.Designer.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Complex.Designer.cs",
+              "RelativeToolTip": "Complex.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T11:25:07.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T04:50:09.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T05:07:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlotCapSpeed.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\PlotCapSpeed.cs",
+              "RelativeDocumentMoniker": "PlotCapSpeed.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\PlotCapSpeed.cs",
+              "RelativeToolTip": "PlotCapSpeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-30T05:11:02.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T05:10:03.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Exprmnt.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Exprmnt.cs",
+              "RelativeDocumentMoniker": "Exprmnt.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Exprmnt.cs",
+              "RelativeToolTip": "Exprmnt.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-30T05:06:34.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Plot.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Plot.cs",
+              "RelativeDocumentMoniker": "Plot.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Plot.cs",
+              "RelativeToolTip": "Plot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-30T05:10:35.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2023-11-30T04:53:29.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlotCapSpeed.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\PlotCapSpeed.cs",
+              "RelativeDocumentMoniker": "PlotCapSpeed.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\PlotCapSpeed.cs [Design]",
+              "RelativeToolTip": "PlotCapSpeed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-30T04:52:55.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2023-11-30T04:51:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2023-11-30T04:51:45.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u041F\u043E\u043B\u043E\u0441\u0438\u043D 2\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T04:51:53.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
